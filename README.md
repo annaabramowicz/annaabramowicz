@@ -23,6 +23,6 @@ I'm currently open to new opportunities and collaborations!
 
 - **📧 Email**: [anna.b.abramowicz@gmail.com](mailto:anna.b.abramowicz@gmail.com)  
 - **🌐 LinkedIn**: [www.linkedin.com/in/annababramowicz](https://www.linkedin.com/in/annababramowicz/)  
-- **💻 Portfolio**: [www.annaportfolio.com](https://www.annaportfolio.com)  
+<!--**💻 Portfolio**: [www.annaportfolio.com](https://www.annaportfolio.com)  -->
 
 Feel free to reach out to discuss your project or to just say hi. 😊
