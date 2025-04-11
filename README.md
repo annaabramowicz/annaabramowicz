@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anna 👋</h1>
-<h3 align="center">I’m a Front-End Developer passionate about building dynamic, efficient, and user-friendly web applications. I specialize in designing modular user interfaces, focusing on creating reusable and scalable components. I primarily work with React to bring ideas to life. Feel free to check out my projects!
+<h3 align="center">I’m a Software Developer passionate about building dynamic, efficient, and user-friendly web applications. I specialize in designing modular user interfaces, focusing on creating reusable and scalable components. I primarily work with React / Next.js to bring ideas to life. Feel free to check out my projects!
 
 </h3>
 
