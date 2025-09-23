@@ -21,8 +21,8 @@
 ### 💼 Hire me
 I'm currently open to new opportunities and collaborations!  
 
-- **💻 Portfolio**: [https://annaabramowicz-webpage.vercel.app/](https://annaabramowicz-webpage.vercel.app/)  
-- **📧 Email**: [anna.b.abramowicz@gmail.com](mailto:anna.b.abramowicz@gmail.com)  
-- **🌐 LinkedIn**: [www.linkedin.com/in/annababramowicz](https://www.linkedin.com/in/annababramowicz/)  
+- **💻 Portfolio**: [https://annarudnicka-webpage.vercel.app/](https://annarudnicka-webpage.vercel.app/)
+- **📧 Email**: [anna.beata.rudnicka@gmail.com](mailto:anna.beata.rudnicka@gmail.com)  
+- **🌐 LinkedIn**: [www.linkedin.com/in/annarudnicka](https://www.linkedin.com/in/annarudnicka/)  
 
 Feel free to reach out to discuss your project or to just say hi. 😊
